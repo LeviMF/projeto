@@ -1,1 +1,1 @@
-<h1># projeto feito no curso Discover da Rocketseat!!</h1>h1
+<h1># projeto feito no curso Discover da Rocketseat!!</h1>
